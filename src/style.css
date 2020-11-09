@@ -1,0 +1,12 @@
+.contador{
+    height:50px;
+    width: 200px;
+    padding-Left: 8px;
+    padding-Top: 6px;
+    padding-Bottom: 6px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: white;
+    border-color: turquoise;
+    
+  }
